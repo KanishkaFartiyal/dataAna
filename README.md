@@ -1,8 +1,8 @@
-# Data Analysis Project
+# Data Analysis Case studies
 
 This repository contains data science and data analysis workflows, focusing on exploratory data analysis (EDA), statistical modeling, and data visualization.
 
-## 📁 Project Structure
+##  Case Structure
 
 ```text
 dataAna/
@@ -12,7 +12,7 @@ dataAna/
 └── README.md                          # Project documentation
 ```
 
-## 📊 Projects Overview
+## Cases Overview
 
 ### 1. Wine Quality EDA (`1.0-WinequalityEDA.ipynb`)
 * **Objective:** Analyze chemical properties of wine to determine features influencing quality ratings.
@@ -20,7 +20,7 @@ dataAna/
 * **Libraries Used:** Pandas, NumPy, Matplotlib, Seaborn.
 * **Dataset used:** https://archive.ics.uci.edu/dataset/186/wine+quality
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 Ensure you have Python installed along with the following data science libraries:
@@ -41,4 +41,3 @@ pip install pandas numpy matplotlib seaborn jupyter
    ```bash
    jupyter notebook 1.0-WinequalityEDA.ipynb
    ```
-https://archive.ics.uci.edu/dataset/186/wine+quality
