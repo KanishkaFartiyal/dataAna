@@ -18,6 +18,7 @@ dataAna/
 * **Objective:** Analyze chemical properties of wine to determine features influencing quality ratings.
 * **Key Tasks:** Data cleaning, missing value analysis, correlation matrices, and distribution plotting.
 * **Libraries Used:** Pandas, NumPy, Matplotlib, Seaborn.
+* **Dataset used:** https://archive.ics.uci.edu/dataset/186/wine+quality
 
 ## 🚀 Getting Started
 
@@ -40,3 +41,4 @@ pip install pandas numpy matplotlib seaborn jupyter
    ```bash
    jupyter notebook 1.0-WinequalityEDA.ipynb
    ```
+https://archive.ics.uci.edu/dataset/186/wine+quality
